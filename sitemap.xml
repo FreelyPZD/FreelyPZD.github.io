@@ -92,6 +92,15 @@
   </url>
   
   <url>
+    <loc>https://www.freelypzd.cn/gallery/hanke/index.html</loc>
+    
+    <lastmod>2023-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.freelypzd.cn/gallery/photo/index.html</loc>
     
     <lastmod>2023-01-09</lastmod>
@@ -128,14 +137,14 @@
 
   
   <url>
-    <loc>https://www.freelypzd.cn/tags/Java/</loc>
+    <loc>https://www.freelypzd.cn/tags/Unturned/</loc>
     <lastmod>2023-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.freelypzd.cn/tags/Unturned/</loc>
+    <loc>https://www.freelypzd.cn/tags/Java/</loc>
     <lastmod>2023-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -151,14 +160,14 @@
 
   
   <url>
-    <loc>https://www.freelypzd.cn/categories/Java/</loc>
+    <loc>https://www.freelypzd.cn/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.freelypzd.cn/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://www.freelypzd.cn/categories/Java/</loc>
     <lastmod>2023-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
