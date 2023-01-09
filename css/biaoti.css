@@ -1,0 +1,76 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 3810307 */
+    src: url('//at.alicdn.com/t/c/font_3810307_2u3x8jvwadh.woff2?t=1670244961131') format('woff2'),
+         url('//at.alicdn.com/t/c/font_3810307_2u3x8jvwadh.woff?t=1670244961131') format('woff'),
+         url('//at.alicdn.com/t/c/font_3810307_2u3x8jvwadh.ttf?t=1670244961131') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-h2:before {
+    content: "\e61a";
+  }
+  
+  .icon-h5:before {
+    content: "\e61b";
+  }
+  
+  .icon-h1:before {
+    content: "\e61c";
+  }
+  
+  .icon-h3:before {
+    content: "\e61d";
+  }
+  
+  .icon-h6:before {
+    content: "\e61e";
+  }
+  
+  .icon-h4:before {
+    content: "\e61f";
+  }
+
+/* 标题前面图标样式 */
+  #article-container h1:before{
+    font-family: "iconfont";
+    content: "\e61c";
+    color: #99CC33;
+    margin-right: 10px;
+  }  
+  #article-container h2:before{
+    font-family: "iconfont";
+    content: "\e61a";
+    color: #3399CC;
+    margin-right: 9px;
+  }  
+  #article-container h3:before{
+    font-family: "iconfont";
+    content: "\e61d";
+    color: #FF6666;
+    margin-right: 8px;
+  }  
+  #article-container h4:before{
+    font-family: "iconfont";
+    content: "\e61f";
+    color: #999999;
+    margin-right: 7px;
+  }  
+  #article-container h5:before{
+    font-family: "iconfont";
+    content: "\e61b";
+    color: #FF9900;
+    margin-right: 6px;
+  }  
+  #article-container h6:before {
+    font-family: "iconfont";
+    content: "\e61e";
+    color: #666699;
+    margin-right: 5px;
+  }  
