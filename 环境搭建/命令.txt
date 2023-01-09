@@ -1,0 +1,3 @@
+hexo d 提交命令
+需要插件
+npm install hexo-deployer-git --save
