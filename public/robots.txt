@@ -1,0 +1,6 @@
+# robots.txt generated at https://www.sojson.com/robots/
+Disallow:https://www.freelypzd.cn/sitemap.xml
+Disallow:https://www.freelypzd.cn/sitemap.txt
+Disallow:/ai
+User-agent: *
+Disallow:
