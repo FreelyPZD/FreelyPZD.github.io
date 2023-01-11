@@ -30,8 +30,7 @@ categories: 游戏开服教程
 
 此时输入以下命令进行匿名登录
 
-```
-PLAINTEXT
+```PLAINTEXT
 login anonymous
 ```
 
@@ -39,8 +38,7 @@ login anonymous
 
 只需在命令行输入以下命令，然后回车
 
-```
-PLAINTEXT
+```PLAINTEXT
 app_update 1110390 validate
 ```
 
