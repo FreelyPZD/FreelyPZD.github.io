@@ -1,9 +1,10 @@
 ---
 title: Unturned未转变者 Windows SteamCMD 2023最新开服教程-全网最全
-date: 2023-1-1 17:01:59
-cover: https://s2.loli.net/2023/01/01/HdumsMbn8i3JVpZ.jpg
+cover: 'https://s2.loli.net/2023/01/01/HdumsMbn8i3JVpZ.jpg'
 tags: Unturned
 categories: 游戏开服教程
+abbrlink: 36384
+date: 2023-01-01 17:01:59
 ---
 
 ## 服务器开服要求

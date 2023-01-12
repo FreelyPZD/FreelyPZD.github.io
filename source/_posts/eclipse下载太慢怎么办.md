@@ -1,9 +1,10 @@
 ---
 title: eclipse下载太慢怎么办
-date: 2022-12-22 17:01:59
-cover: https://s2.loli.net/2022/12/22/RIq2VOepBCPQ81H.png
+cover: 'https://s2.loli.net/2022/12/22/RIq2VOepBCPQ81H.png'
 tags: Java
 categories: Java
+abbrlink: 14885
+date: 2022-12-22 17:01:59
 ---
 
 ## 为什么下载慢

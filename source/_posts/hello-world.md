@@ -1,8 +1,9 @@
 ---
 title: Hello World
-date: 2022-11-24 17:01:59
-cover: https://s2.loli.net/2023/01/01/1GVwvpY7tbOAHhC.jpg
+cover: 'https://s2.loli.net/2023/01/01/1GVwvpY7tbOAHhC.jpg'
 top: 1
+abbrlink: 16107
+date: 2022-11-24 17:01:59
 ---
 >🙋你好陌生人，感谢您访问本网站，网站为了轻量化没有加入太多复杂的东西，使用[Hexo](https://hexo.io/,'Hexo')框架配合GitHub Pages搭建，如有访问速度慢属于正常现象，后续会不断优化，敬请谅解！
 
